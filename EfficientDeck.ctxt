@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=rng
+comment0.target=EfficientDeck(java.util.Random)
+comment0.text=\n\ Constructor\ for\ the\ class.\n\ @param\ rng\ The\ random\ number\ generator\ used\ to\ shuffle\ the\ deck.\n
+comment1.params=
+comment1.target=Card\ drawCard()
+comment1.text=\ \n\ Draw\ one\ card\ from\ random\ position\ of\ the\ remaining\ cards,\ moving\ that\ card\n\ to\ the\ right\ subarray\ that\ contains\ cards\ that\ have\ already\ been\ drawn.\n\ @return\ The\ card\ that\ was\ drawn\ and\ removed\ from\ this\ deck.\n
+comment2.params=
+comment2.target=void\ restoreCards()
+comment2.text=\n\ Put\ all\ the\ drawn\ cards\ back\ to\ the\ deck.\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ For\ debugging\ purposes,\ a\ toString\ method\ for\ this\ class.\n
+comment4.params=
+comment4.target=BadugiHand\ drawBadugiHand()
+comment4.text=\n\ Create\ a\ new\ four-card\ badugi\ hand\ by\ drawing\ from\ the\ top\ of\ this\ deck.\n\ @return\ The\ badugi\ hand\ object\ thus\ created.\n
+comment5.params=
+comment5.target=void\ demo()
+numComments=6
