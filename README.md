@@ -1,1 +1,3 @@
-# CPS721-Badugi-assignment
+# CPS721
+
+Course project for my AI class. Everyone in the class had to make a poker bot that would play against each other. The winner got the highest mark... I got the highest mark...
